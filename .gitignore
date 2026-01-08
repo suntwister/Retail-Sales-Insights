@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+retail_env/
+
+# Data files (optional: keep raw dataset local)
+data/Online_Retail.xlsx
+
+# VS Code settings
+.vscode/
