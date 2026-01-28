@@ -7,6 +7,7 @@ retail_env/
 
 # Data files (optional: keep raw dataset local)
 data/Online_Retail.xlsx
+data/bisi_enterprise_store_2022_2024.csv
 
 # VS Code settings
 .vscode/
